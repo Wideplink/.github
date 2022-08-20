@@ -47,4 +47,5 @@ pl     : players プレイヤー
 - オーナー＆コア開発者 [Fudzuki](https://github.com/Fudzuki)
 - コア開発者 [eve0415](https://eve0415.net)
 - 開発者兼デザイナー [myon2019](https://www.usamyon.moe/)
-- デザイナー（アイコン制作者）/相談役 [でじたるたる](https://twitter.com/digitaltal_)
+- アイコン制作 [竹筒](https://twitter.com/T4keTow)氏
+- デザイナー（OGP画像制作者）/相談役 [でじたるたる](https://twitter.com/digitaltal_)
